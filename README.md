@@ -1,8 +1,24 @@
 # Music App
 
-An elegant React.js Music Application.
+A React.js Music Application.
 
-# Contributing
+- User can see the Discover page of the music app.
+- User can search for any song.
+- User can listen any song in the app.
+- User can control play & pause, adjust volume, play next & previous song in the music player.
+- User can see the lyrics of any song and the artists of the song.
+- User can see the Artist's profile and songs related to that artist.
+
+Try it now
+
+https://music-react-apps.netlify.app/
+
+![screenshot](https://github.com/pankajsahu221/music-app/blob/main/src/assets/music-home.png)
+![screenshot](https://github.com/pankajsahu221/music-app/blob/main/src/assets/music-search.png)
+![screenshot](https://github.com/pankajsahu221/music-app/blob/main/src/assets/music-page.png)
+![screenshot](https://github.com/pankajsahu221/music-app/blob/main/src/assets/music-artist.png)
+
+## Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue.
 Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
