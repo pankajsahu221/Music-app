@@ -14,8 +14,11 @@ Try it now
 https://music-react-apps.netlify.app/
 
 ![screenshot](https://github.com/pankajsahu221/music-app/blob/master/src/assets/music-home.png)
+
 ![screenshot](https://github.com/pankajsahu221/music-app/blob/master/src/assets/music-search.png)
+
 ![screenshot](https://github.com/pankajsahu221/music-app/blob/master/src/assets/music-page.png)
+
 ![screenshot](https://github.com/pankajsahu221/music-app/blob/master/src/assets/music-artist.png)
 
 ## Contributing
